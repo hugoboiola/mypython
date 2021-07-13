@@ -17,5 +17,5 @@ for i in range(10):
 print(b) 
 # Somando as duas listas
 
-c = a -b
+c = a + b
 print(c)
