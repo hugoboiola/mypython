@@ -1,5 +1,5 @@
 # Python
----
+Eu criei um programa em que o usuário coloca um **input** em duas **list** de 10 numeros inteiros, e após disso, as 'soma' com **join**.
 ~~~python
 a = []
 b = []
